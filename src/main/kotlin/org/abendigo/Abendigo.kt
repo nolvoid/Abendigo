@@ -42,15 +42,15 @@ fun main(args: Array<String>) {
 
 	enable(GlowESPPlugin)
 	enable(BunnyHopPlugin)
-	enable(TriggerBotPlugin)
-	// enable(BoneTriggerPlugin)
+	(TriggerBotPlugin)
+	// (BoneTriggerPlugin)
 	enable(ReducedFlashPlugin)
 	enable(SkinChangerPlugin)
-	// enable(FakeLagPlugin)
-	enable(FOVAimPlugin) // I recommend not using any other aim plugins if you use FOV
-	// enable(AimAssistPlugin) // do not use with FOV aim
-	// enable(SprayAssistPlugin) // do not use with RCS
-	// enable(RCSPlugin) // do not use with spray assist
+	// (FakeLagPlugin)
+	(FOVAimPlugin) // I recommend not using any other aim plugins if you use FOV
+	// (AimAssistPlugin) // do not use with FOV aim
+	// (SprayAssistPlugin) // do not use with RCS
+	// (RCSPlugin) // do not use with spray assist
 
 
 	// --- !!! DANGER ZONE !!! --- //
